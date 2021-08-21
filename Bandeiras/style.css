@@ -1,0 +1,41 @@
+
+/*parte de cima e titulos e imagens*/
+
+
+#carouselExampleIndicators{
+    width: 100%;
+    height: min-content;
+}
+#titulog{
+    text-decoration: underline 3px;
+
+}
+
+
+
+.row img{
+    width: 250px;
+    border-radius: 5px;
+    border:1px solid #999;
+}
+
+
+
+
+#item-1{
+    text-align:start;
+}
+
+/*hinos*/
+
+.flex-container{
+    font-family: sans-serif;
+    background-color: rgba(201, 205, 223, 0.116); width: 20%;
+    border-radius: 8px;
+
+}
+
+#tituloh{
+    opacity: 25%;
+    text-decoration:underline
+}
